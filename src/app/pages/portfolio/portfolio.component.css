@@ -1,0 +1,9 @@
+form
+{
+  display: flex;
+background-color: rgb(229, 233, 231);
+flex-direction: column;
+width: 80%;
+margin: auto;
+padding: 10px;
+}
